@@ -1,0 +1,48 @@
+file startup - VA_Mod.htm
+Tutupi dengan browser chrome
+
+
+Warna volume ruang variabel untuk input logis berwarna hijau di atas bagian bawah merah :)
+Warna warna histogram ditambahkan, tergantung nilainya
+Dan begitu pula gambar volume di kolom
+
+versi dengan hitungan waktu terbalik
+Saat lampu menyala, disesuaikan hingga waktu di bawah jadwal binomo (saat menit ditutup)
+Sekali lagi menambahkan waktu ke nilai tengah, waktu berubah ketika pengaturan diatur ke akhir menit terakhir.
+
+Disertakan dengan penambahan nilai baterai hingga 12 karakter, sehingga secara massal dimungkinkan untuk mengubah ukurannya
+Dilengkapi dengan penambahan bit dan beberapa uap lainnya
+sedetik pada grafik sekarang mereka dihapus dari tanggal dengan binom dan bukan dari komputer, karena itu sangat bagus
+__________________________________
+ver.5.1
+Menambahkan kotak centang untuk kemudahan penggunaan
+dan sedikit perubahan warna
+
+ver.6.1
+Fungsi pengaturan menurun
+ver.6.2
+Waktu Didukung oleh Hitung Mundur Tanpa Kemanusiaan Binomo
+v.6.3
+sedikit lebih dari sedikit)
+v.6.4
+Fungsi tambahan untuk mencari pusat secara massal dan dalam histogram
+Deskripsi panah yang ditambahkan akan menunjuk ke titik arah
+nu dan dukungan
+
+v.6.4.1
+Menambahkan kapasitas perubahan ukuran font (di masa depan, kami perlu bekerja)
+
+Menambahkan kartu dengan bagian tengah sesuai dengan bagian tengah (kartu dapat diganti dengan salah satu milik Anda di folder img.
+
+Mengubah pengkodean panah kecil, sekarang sudah benar untuk semuanya.
+
+Mengarahkan ulang pengaturan kesalahan dari volume yang salah ke arah mouse
+
+v7.0.0
+Menambahkan kapasitas untuk menampilkan grafik dalam tampilan perdagangan, tampilan II IA saat ini dalam grafik IA di IAAI menampilkan format dalam format ANO
+Ditambahkan lampu untuk menyalakan pencarian nilai yang sama dengan arah mouse.
+Panah kecil sekarang berada di semua sisi tulisan tangan.
+Medali dengan algoritma pengaturan ukuran bit, tetapi beberapa di antaranya belum dipulihkan, tetapi semakin baik.
+
+v.7.1.0
+Penambahan uji olimpan, pendinginan air belum ditambahkan
